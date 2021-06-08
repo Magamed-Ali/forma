@@ -1,3 +1,24 @@
+.generalParentBlock{
+    padding-bottom: 300px;
+}
+.buttonSwitchTheme{
+    font-size: 50px;
+    color: #fddf00;
+}
+.buttonSwitchThemeDay{
+    color: #747272;
+}
+.nightTheme{
+    background: #403b3b;
+}
+.buttonlamp{
+    margin-top: 30px;
+    margin-left: 30px;
+    border: none;
+    font: inherit;
+    color: inherit;
+    background-color: transparent;
+}
 
 .div{
     margin-top: 40px;
@@ -12,4 +33,7 @@
     margin-right: 10px;
     margin-bottom: 20px;
     font-size: 22px;
+}
+.activityWhenClicked{
+    cursor: pointer;
 }
